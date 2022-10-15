@@ -1,0 +1,3 @@
+ignoreFile.txt
+ignoreFolder/*
+!ignoreFolder/inFolder1.txt
